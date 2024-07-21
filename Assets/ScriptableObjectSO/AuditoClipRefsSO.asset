@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 529b965e065408549b2ddf550bcd126c, type: 3}
+  m_Name: AuditoClipRefsSO
+  m_EditorClassIdentifier: 
+  footStep:
+  - {fileID: 8300000, guid: 6a26ff98c61d29242bc9db6d34b8bd64, type: 3}
+  granadeLancher:
+  - {fileID: 8300000, guid: 8e9d9906c1506f44dbef1790d9b4d566, type: 3}
+  granadeExplosion:
+  - {fileID: 8300000, guid: 85ca2ae0cefb7c744acbe7fde7439cd2, type: 3}
+  shoot:
+  - {fileID: 8300000, guid: 91b985a879aff1e40bfbb6693454208f, type: 3}
+  openCloseDoor:
+  - {fileID: 8300000, guid: 3c9436cd3952a924a8967a2aaaaeabd8, type: 3}
+  swordSlash:
+  - {fileID: 8300000, guid: 5177295959d862d4e950060b1762715e, type: 3}
