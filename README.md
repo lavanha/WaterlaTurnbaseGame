@@ -17,11 +17,10 @@ Công nghệ: Unity 3D.
 # Các Kĩ Thuật Lập Trình Sử Dụng
 1. Inheritance
 2. Generics
-3. Reference
-4. Interface
-5. Delegate
-6. Callback
-7. Define 
+3. Interface
+4. Delegate
+5. Callback
+6. Define 
 
 # Link giới thiệu game: https://youtu.be/yaKHrYsY1AU
  
