@@ -23,5 +23,5 @@ Công nghệ: Unity 3D.
 6. Callback
 7. Define 
 
-# Link giới thiệu game: https://drive.google.com/file/d/1WfVgzWkksjawphILsZ_cbfb90i4rHono/view?usp=sharing
+# Link giới thiệu game: https://youtu.be/yaKHrYsY1AU
  
